@@ -123,7 +123,7 @@
         }
     },
     "appVersion": "301.2.2024",
-    "buildNumber": 2,
+    "buildNumber": 3,
     "runtimeUrl": "https://qgointegration100.apps.ap-3a.mendixcloud.com/",
     "hermesEnabled": false
 }
