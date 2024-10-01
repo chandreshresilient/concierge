@@ -82,8 +82,8 @@
     ],
     "capabilities": {
         "deepLink": {
-            "value": "",
-            "enabled": false,
+            "value": "servio",
+            "enabled": true,
             "android": {
                 "webLinks": [
                     {
@@ -122,8 +122,8 @@
             "enabled": false
         }
     },
-    "appVersion": "0.0.1",
-    "buildNumber": 1,
+    "appVersion": "301.2.2024",
+    "buildNumber": 2,
     "runtimeUrl": "https://qgointegration100.apps.ap-3a.mendixcloud.com/",
     "hermesEnabled": false
 }

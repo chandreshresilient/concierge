@@ -22,11 +22,11 @@
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>CFBundleShortVersionString</key>
-    <string>0.0.1</string>
+    <string>301.2.2024</string>
     <key>CFBundleSignature</key>
     <string>????</string>
     <key>CFBundleVersion</key>
-    <string>1</string>
+    <string>2</string>
     <key>GoogleMapsApiKey</key>
     <string>AIzaSyC-5mUX04VSAqpQVIagbhKbCWLonU-Q6Vo</string>
     <key>LSRequiresIPhoneOS</key>
@@ -99,5 +99,18 @@
     <false/>
     <key>FirebaseAppDelegateProxyEnabled</key>
     <false/>
+    <key>CFBundleURLTypes</key>
+    <array>
+      <dict>
+        <key>CFBundleTypeRole</key>
+        <string>Editor</string>
+        <key>CFBundleURLName</key>
+        <string>servio</string>
+        <key>CFBundleURLSchemes</key>
+        <array>
+          <string>servio</string>
+        </array>
+      </dict>
+    </array>
   </dict>
 </plist>
