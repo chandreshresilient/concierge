@@ -1,7 +1,7 @@
 {
     "configVersion": 2,
     "appIdentifier": "com.app.servio",
-    "appName": "ServioApp",
+    "appName": "Servio",
     "bundleName": {
         "main": "App",
         "dev": "AppDev"
@@ -12,7 +12,7 @@
     },
     "orientation": {
         "portrait": true,
-        "landscape": true
+        "landscape": false
     },
     "permissions": [
         {
@@ -122,8 +122,8 @@
             "enabled": false
         }
     },
-    "appVersion": "301.2.2024",
-    "buildNumber": 3,
+    "appVersion": "2.1.1",
+    "buildNumber": 1,
     "runtimeUrl": "https://qgointegration100.apps.ap-3a.mendixcloud.com/",
     "hermesEnabled": false
 }
